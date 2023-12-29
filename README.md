@@ -1,3 +1,5 @@
+Msc. project for the Web Applications and Systems course.
+
 Tema: Social Good, con accenni alla Sustainability.
 
 Intersezioni: Gamification, Data Visualization e IoT.
