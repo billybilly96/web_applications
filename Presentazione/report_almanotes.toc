@@ -1,0 +1,11 @@
+\beamer@sectionintoc {1}{Design}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Goal \& Target Group}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Personas \& Scenarios}{4}{0}{1}
+\beamer@subsectionintoc {1}{3}{Storyboard}{7}{0}{1}
+\beamer@subsectionintoc {1}{4}{Focus Group}{12}{0}{1}
+\beamer@sectionintoc {2}{Sviluppo}{14}{0}{2}
+\beamer@subsectionintoc {2}{1}{Client}{14}{0}{2}
+\beamer@subsectionintoc {2}{2}{Server}{15}{0}{2}
+\beamer@sectionintoc {3}{Testing}{16}{0}{3}
+\beamer@subsectionintoc {3}{1}{Nielsen’s Heuristics}{16}{0}{3}
+\beamer@subsectionintoc {3}{2}{Usability testing}{17}{0}{3}

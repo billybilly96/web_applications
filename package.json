@@ -1,0 +1,17 @@
+{
+  "name": "almanotes",
+  "version": "1.0.0",
+  "description": "Tema: Social Good, con accenni alla Sustainability.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://tommaso_bombardi@bitbucket.org/tommaso_bombardi/almanotes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/tommaso_bombardi/almanotes#readme",
+  "dependencies": {}
+}

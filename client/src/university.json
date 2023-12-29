@@ -1,0 +1,282 @@
+{
+    "Ingegneria e Scienze Informatiche": {
+        "1": [
+            "Analisi Matematica",
+            "Idoneità Lingua Inglese B1",
+            "Programmazione",
+            "Algebra e Geometria",
+            "Algoritmi e Strutture Dati",
+            "Architetture degli Elaboratori"
+        ],
+        "2": [
+            "Matematica Discreta e Probabilità",
+            "Programmazione ad Oggetti",
+            "Sistemi Operativi",
+            "Basi di Dati",
+            "Fisica",
+            "Metodi Numerici",
+            "Programmazione di Reti"
+        ],
+        "3": [
+            "Ingegneria del Software",
+            "Reti di Telecomunicazione",
+            "Ricerca Operativa",
+            "Tecnologie Web",
+            "High-Performance Computing",
+            "Informatica e Diritto",
+            "Sistemi Embedded e Internet-of-Things",
+            "Basi di Dati Avanzate",
+            "Computer Graphics",
+            "Programmazione di Applicazioni Data Intensive",
+            "Programmazione di Sistemi Mobile",
+            "Visione Artificiale",
+            "Crittografia",
+            "Elettronica per l'Informatica",
+            "System Integration"
+        ]
+    },
+    "Ingegneria e Scienze Informatiche - LM": {
+        "1": [
+            "Idoneità Lingua Inglese B2",
+            "Linguaggi, Compilatori e Modelli Computazionali",
+            "Machine Learning",
+            "Sistemi Distribuiti",
+            "Sistemi Informativi",
+            "Applicazioni e Servizi Web",
+            "Sicurezza delle Reti",
+            "Paradigmi di Programmazione e Sviluppo",
+            "Programmazione Concorrente e Distribuita"
+        ],
+        "2": [
+            "Business Intelligence",
+            "Data Mining",
+            "Laboratorio di Sistemi Software",
+            "Pervasive Computing",
+            "Sistemi di Supporto alle Decisioni",
+            "Smart City e Tecnologie Mobili",
+            "Visione Artificiale e Riconoscimento",
+            "Big Data",
+            "Project Management",
+            "Sistemi Autonomi",
+            "Sistemi Intelligenti Robotici",
+            "Tecniche Avanzate per l'Analisi delle Immagini e Visione 3D",
+            "Web Semantico",
+            "Instradamento e Trasporto in Internet",
+            "Smart Vehicular Systems"
+        ]
+    },
+    "Ingegneria Biomedica": {
+        "1": [
+            "Analisi Matematica A",
+            "Fisica Generale A",
+            "Fisica Generale B",
+            "Geometria e Algebra",
+            "Idoneità Lingua Inglese B1",
+            "Analisi Matematica B",
+            "Fondamenti di Informatica",
+            "Laboratorio di Ingegneria Informatica Biomedica",
+            "Fondamenti di Chimica"
+        ],
+        "2": [
+            "Elaborazione dei Segnali",
+            "Elettrotecnica",
+            "Fisiologia",
+            "Bioingegneria",
+            "Calcolatori Elettronici",
+            "Controlli Automatici",
+            "Fisica Tecnica",
+            "Elettronica"
+        ],
+        "3": [
+            "Meccanica dei Solidi per l'Ingegneria Biomedica",
+            "Proprietà dei Biomateriali",
+            "Fondamenti di Biomeccanica",
+            "Fondamenti di Strumentazione Biomedica",
+            "Economia e Organizzazione Aziendale",
+            "Ingegneria Clinica e Informatica Medica",
+            "Algoritmi di Ottimizzazione",
+            "Conversione Elettromeccanica dell'Energia",
+            "Laboratorio di Biomeccanica",
+            "Laboratorio di Strumentazione Biomedica",
+            "Misure Elettroniche",
+            "Reti di Telecomunicazione",
+            "Sistemi Operativi",
+            "Basi di Dati",
+            "Laboratorio di Reti di Sensori per l'Energia e l'Ambiente",
+            "Laboratorio di Reti e Programmazione Dispositivi Mobili",
+            "Progetto di Circuiti Elettronici",
+            "Programmazione di Reti"
+        ]
+    },
+    "Ingegneria Biomedica - LM": {
+        "1": [
+            "Algebra e Analisi Numerica",
+            "Biochimica Applicata",
+            "Bioelettromagnetismo",
+            "Biomeccanica",
+            "Idoneità Lingua Inglese B2",
+            "Elaborazione di Dati e Segnali Biomedici",
+            "Modelli di Sistemi Biologici",
+            "Strumentazione Biomedica"
+        ],
+        "2": [
+            "Organi Artificiali",
+            "Sensori e Nanotecnologie",
+            "Bioingegneria della Riabilitazione",
+            "Sistemi Neurali",
+            "Bioimmagini",
+            "Meccanica dei Tessuti Biologici",
+            "Modelli e Metodi per la Cardiologia Computazionale",
+            "Biologia Sintetica",
+            "Machine Learning",
+            "Reti di Telecomunicazioni",
+            "Reti Wireless per l'Internet delle Cose",
+            "Sistemi di Telecomunicazioni",
+            "Biomeccanica Computazionale",
+            "Biomeccanica della Funzione Motoria",
+            "Cognizione e Neuroscienze",
+            "Fondamenti di Ingegneria dei Tessuti Biologici",
+            "Ingegneria Biomedica per i Paesi in via di Sviluppo"
+        ]
+    },
+    "Ingegneria Elettronica": {
+        "1": [
+            "Analisi Matematica A",
+            "Fisica Generale A",
+            "Fisica Generale B",
+            "Fondamenti di Chimica",
+            "Geometria e Algebra",
+            "Idoneità Lingua Inglese B1",
+            "Analisi Matematica B",
+            "Fondamenti di Informatica"
+        ],
+        "2": [
+            "Algoritmi di Ottimizzazione",
+            "Elaborazione dei Segnali",
+            "Calcolatori Elettronici",
+            "Controlli Automatici",
+            "Elettronica",
+            "Elettrotecnica",
+            "Laboratorio di Ingegneria dell'Informazione"
+        ],
+        "3": [
+            "Comunicazioni Digitali e Internet",
+            "Laboratorio di Elettronica per le Energie Rinnovabili",
+            "Elettronica dei Sistemi Digitali",
+            "Laboratorio di Reti di Sensori per l'Energia e l'Ambiente",
+            "Laboratorio di Reti e Programmazione Dispositivi Mobili",
+            "Progetto di Circuiti Elettronici",
+            "Campi Elettromagnetici",
+            "Conversione Elettromeccanica dell'Energia",
+            "Economia e Organizzazione Aziendale",
+            "Misure Elettroniche",
+            "Principi Fisici per il Monitoraggio Energetico e Ambientale",
+            "Sistemi Operativi"
+        ]
+    },
+    "Ingegneria Elettronica - LM": {
+        "1": [
+            "Elaborazione Numerica dei Segnali Multimediali",
+            "Idoneità Lingua Inglese B2",
+            "Sensori e Attuatori",
+            "Sistemi Elettronici",
+            "Reti di Telecomunicazioni",
+            "Teoria dell'Informazione e Crittografia",
+            "Matematica Applicata",
+            "Sistemi a RF Energeticamente Autonomi",
+            "Sistemi di Conversione Statica per Energie Rinnovabili",
+            "Tecnologie Elettroniche per l'Informazione e l'Energia",
+            "Journey",
+            "Energy Planning, Climate and Public Policies"
+        ],
+        "2": [
+            "Progetto di Elettronica e Telecomunicazioni",
+            "Elettronica per l'Elaborazione Analogica del Segnale",
+            "Tecniche Elettromagnetiche per la Localizzazione e il Controllo Ambientale",
+            "Propagazione e Pianificazione nei Sistemi Wireless",
+            "Reti Wireless per l'Internet delle Cose",
+            "Sistemi di Elaborazione dell'Informazione",
+            "Sistemi di Telecomunicazioni",
+            "Elettronica per l'Elaborazione Analogica del Segnale",
+            "Analisi Numerica",
+            "Metodi di Ottimizzazione per le Reti e l'Energia",
+            "Elaborazione Numerica dei Segnali Multimediali",
+            "Sistemi Distribuiti",
+            "Sistemi Embedded e Internet-of-Things",
+            "Programmazione di Reti",
+            "Sicurezza delle Reti",
+            "Sistemi di Conversione Statica per Energie Rinnovabili",
+            "Business Plan",
+            "Progetto di Elettronica e Telecomunicazioni"
+        ]
+    },
+    "Architettura": {
+        "1": [
+            "Idoneità Lingua Inglese B2",
+            "Fisica Tecnica Ambientale 1",
+            "Disegno dell'Architettura 1",
+            "Laboratorio di Informatica Grafica",
+            "Rappresentazione Tecnica",
+            "Architettura e Composizione Architettonica 1",
+            "Caratteri Distributivi degli Edifici 1",
+            "Disegno della Città e del Paesaggio",
+            "Matematica",
+            "Materiali e Progettazione di Elementi Costruttivi",
+            "Storia dell'Architettura 1"
+        ],
+        "2": [
+            "Istituzioni di Matematiche 2",
+            "Disegno Architettonico e Analisi Grafica",
+            "Fondamenti di Comunicazione Grafica",
+            "Strutture e Statistica nell'Architettura",
+            "Elementi di Urbanistica",
+            "Progettazione Ambientale",
+            "Progettazione Tecnologica",
+            "Architettura degli Interni",
+            "Architettura e Composizione Architettonica 2",
+            "Caratteri Distributivi degli Edifici 2",
+            "Storia dell'Architettura 2"
+        ],
+        "3": [
+            "Fisica Tecnica Ambientale 2",
+            "Progettazione Esecutiva dell'Architettura",
+            "Scienza delle Costruzioni",
+            "Rilievo Architettonico e Urbano",
+            "Strumenti e Metodi del Rilievo Architettonico",
+            "Composizione Architettonica 1",
+            "Teoria della Composizione Architettonica",
+            "Tecnica Urbanistica",
+            "Urbanistica",
+            "Storia dell'Architettura 3",
+            "Teorie e Storia del Restauro"
+        ],
+        "4": [
+            "Legislazione Urbanistica e delle OO.PP",
+            "Matematica Applicata all'Architettura",
+            "Estetica",
+            "Progetto delle Strutture",
+            "Teoria delle Strutture",
+            "Architettura del Paesaggio",
+            "Composizione Architettonica 2",
+            "Conservazione dei Materiali nell'Edilizia Storica",
+            "Restauro Architettonico"
+        ],
+        "5": [
+            "Allestimento e Museografia",
+            "Diagnostica Strutturale",
+            "Illuminotecnica e Acustica",
+            "Psicologia della Forma",
+            "Composizione e Progettazione Urbana",
+            "Progettazione Ambientale",
+            "Storia della Città e del Territorio",
+            "Storia e Tecnica della Fotografia",
+            "Valutazione Economica dei Progetti",
+            "Maximum City Minimum Dwelling",
+            "Riqualificare le Città del Dopoguerra",
+            "Architettura per l'Archeologia",
+            "Architettura Sostenibile",
+            "Progetto Urbano",
+            "Progetto, Storia e Restauro"
+        ]
+    }
+}
